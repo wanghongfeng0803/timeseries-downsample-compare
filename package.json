@@ -1,0 +1,14 @@
+{
+  "name": "timeseries-downsample-compare",
+  "version": "1.0.0",
+  "description": "时间序列降采样算法对照工具",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
